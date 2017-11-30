@@ -1,0 +1,27 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "Converts CSV files to JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhay/edx-nodejs-csv2json.git"
+  },
+  "keywords": [
+    "NODE",
+    "CSV",
+    "JSON"
+  ],
+  "author": "David Hay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidhay/edx-nodejs-csv2json/issues"
+  },
+  "homepage": "https://github.com/davidhay/edx-nodejs-csv2json#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9"
+  }
+}
